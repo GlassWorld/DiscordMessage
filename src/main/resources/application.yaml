@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Discord-bot
+
+discord:
+  webhook:
+    alert:
+      url: '1288295543197663312/Lc3drdzxUVRSlraC3Drj3DdkRLea7J_jDwhZ2EDhxvlfD-ZQZkA2I0qOHChsCy1bUfoo'
